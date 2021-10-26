@@ -8,6 +8,8 @@
 
 ### 호기심이 가득한 개발자
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderer80&show_icons=true&theme=shades-of-purple)
+
 <!--
 **wonderer80/wonderer80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
